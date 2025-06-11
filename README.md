@@ -12,7 +12,7 @@ Data from the Los Angeles [Data Portal](https://data.lacity.org/) that tracks mo
 
 ## Summary Insight
 
-### Convince the museum board 
+### - Convince the museum board 
 The Firehouse Museum claims they ran an event in 2014 that brought an incredible number of visitors, and that they should get extra budget to run a similar event again.  The other museums think these types of events aren't that important, and budgets should be split purely based on recent visitors on an average day.
 Key Observations:
 - Avila Adobe consistently had the highest number of visitors compared to the other museums, with noticeable fluctuations but generally ranging between 15,000 to over 40,000 visitors per month.
@@ -20,7 +20,7 @@ Key Observations:
 - Chinese American Museum had the lowest visitor numbers, mostly staying below 5,000 visitors per month, showing relatively stable but low traffic.
 - America Tropical Interpretive Center had moderate and fairly consistent visitor numbers, mostly between 4,000 to 12,000 visitors per month, with some small fluctuations over time.
 
-### Assess seasonality
+### - Assess seasonality
 When meeting with the employees at Avila Adobe, one major pain point is that the number of museum visitors varies greatly with the seasons, with low seasons (when the employees are perfectly staffed and happy) and also high seasons (when the employees are understaffed and stressed). You realize that if you can predict these high and low seasons, you can plan ahead to hire some additional seasonal employees to help out with the extra work.
 Key Observations:
 - 2014 to mid-2015: Visitor numbers fluctuated significantly, often ranging between 20,000 to over 35,000, with several sharp peaks. The highest point occurred around mid-2015, reaching over 40,000 visitors in a single month.
@@ -34,8 +34,37 @@ Key Observations:
 
 
 
+# Project 2 [Create Own Video Game]
+![ex2_ign](https://storage.googleapis.com/kaggle-media/learn/images/Oh06Fu1.png)
 
 
+### Which platform is best?
+Based on the data, Xbox One seems to be the best alternative, since it has the highest average ratings.
+![image](https://github.com/user-attachments/assets/324a08d5-7d57-429f-89d6-0a790e5b7dff) 
+
+### Which combination of genre and platform receives the highest average ratings? Which combination receives the lowest average rankings?
+Simulation games for Playstation 4 receive the highest average ratings (9.2). Shooting and Fighting games for Game Boy Color receive the lowest average rankings (4.5).
+![image](https://github.com/user-attachments/assets/0489b42b-514a-4071-8db2-eb0047cb986a)
+
+## Business Metrics
+- Average Review Score by Platform and Genre.
+- Highest-rated Platforms based on average scores across all genres.
+- Most Popular Genres with consistently high ratings across platforms.
+- Heatmap to identify genre-platform combinations with strong review performance.
+
+## Summary Insight
+Based on IGN review data:
+- Platform Performance: The PlayStation 4, Xbox One, and PC platforms tend to have higher average review scores, suggesting better quality or broader appeal of games on those systems.
+- Genre Trends: Genres like Action, Shooter, and Role-Playing show consistently high ratings, making them strong candidates for new game development.
+- Weak performers include platforms with low market share or mobile-focused systems, which typically received lower average scores.
+
+## Recommendation 
+- Develop your game for one of the top-rated platforms such as PS4, Xbox One, or PC to increase the likelihood of positive reception.
+- Focus on high-performing genres like Action or RPG where player expectations are well-established and positive.
+- Benchmark against top-rated games in your selected platform/genre to identify key quality features (graphics, story, multiplayer features).
+
+## Conclusion
+This data-driven analysis of IGN review scores reveals clear trends that can guide successful game development. Platforms and genres with historically higher ratings should be prioritized to maximize both critical and player acclaim. By leveraging these insights, you can make strategic design decisions aligned with proven market preferences.
 
 
 
