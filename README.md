@@ -40,11 +40,12 @@ Key Observations:
 
 ### Which platform is best?
 Based on the data, Xbox One seems to be the best alternative, since it has the highest average ratings.
-![image](https://github.com/user-attachments/assets/324a08d5-7d57-429f-89d6-0a790e5b7dff) 
+![image](https://github.com/user-attachments/assets/0489b42b-514a-4071-8db2-eb0047cb986a)
+
 
 ### Which combination of genre and platform receives the highest average ratings? Which combination receives the lowest average rankings?
 Simulation games for Playstation 4 receive the highest average ratings (9.2). Shooting and Fighting games for Game Boy Color receive the lowest average rankings (4.5).
-![image](https://github.com/user-attachments/assets/0489b42b-514a-4071-8db2-eb0047cb986a)
+![image](https://github.com/user-attachments/assets/324a08d5-7d57-429f-89d6-0a790e5b7dff) 
 
 ## Business Metrics
 - Average Review Score by Platform and Genre.
