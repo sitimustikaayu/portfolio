@@ -1,5 +1,8 @@
 # Project 1 [ The Management of Museums ](https://github.com/sitimustikaayu/portfolio/blob/main/Museums.ipynb)
 
+![image](https://github.com/user-attachments/assets/370409ea-a241-42d9-8f38-4053d04b3a2c)
+![image](https://github.com/user-attachments/assets/c8a36f1e-c767-4630-a532-1ac66c6bc05c)
+
 Manage the museums in the City of Los Angeles
 ![ex1_museums](https://storage.googleapis.com/kaggle-media/learn/images/pFYL8J1.png)
 
@@ -29,9 +32,6 @@ Key Observations:
 - Avila Adobe usually gets more visitors in March-August (or the spring and summer months). With this in mind, Avila Adobe could definitely benefit from hiring more seasonal employees to help with the extra work in March-August (the spring and summer)
 - The Avila Adobe museum experienced strong visitor interest in the early years (2014–2015), but over time, attendance gradually declined. This may suggest changing public interest, reduced promotions, seasonal factors, or external influences affecting tourism. The trend highlights the importance of engagement strategies to maintain or grow museum attendance.
 
-## Visualization :
-![image](https://github.com/user-attachments/assets/370409ea-a241-42d9-8f38-4053d04b3a2c)
-![image](https://github.com/user-attachments/assets/c8a36f1e-c767-4630-a532-1ac66c6bc05c)
 
 
 
