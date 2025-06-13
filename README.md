@@ -6,7 +6,7 @@ Data from the Los Angeles [Data Portal](https://data.lacity.org/) that tracks mo
 
 ## Summary Insight
 
-### - Convince the museum board 
+- ### Convince the museum board 
 ![image](https://github.com/user-attachments/assets/370409ea-a241-42d9-8f38-4053d04b3a2c)
 The Firehouse Museum claims they ran an event in 2014 that brought an incredible number of visitors, and that they should get extra budget to run a similar event again.  The other museums think these types of events aren't that important, and budgets should be split purely based on recent visitors on an average day.
 Key Observations:
@@ -15,7 +15,7 @@ Key Observations:
 - Chinese American Museum had the lowest visitor numbers, mostly staying below 5,000 visitors per month, showing relatively stable but low traffic.
 - America Tropical Interpretive Center had moderate and fairly consistent visitor numbers, mostly between 4,000 to 12,000 visitors per month, with some small fluctuations over time.
 
-### - Assess seasonality
+- ### Assess seasonality
 ![image](https://github.com/user-attachments/assets/c8a36f1e-c767-4630-a532-1ac66c6bc05c)
 When meeting with the employees at Avila Adobe, one major pain point is that the number of museum visitors varies greatly with the seasons, with low seasons (when the employees are perfectly staffed and happy) and also high seasons (when the employees are understaffed and stressed). You realize that if you can predict these high and low seasons, you can plan ahead to hire some additional seasonal employees to help out with the extra work.
 Key Observations:
@@ -63,7 +63,44 @@ Based on IGN review data:
 ## Conclusion
 This data-driven analysis of IGN review scores reveals clear trends that can guide successful game development. Platforms and genres with historically higher ratings should be prioritized to maximize both critical and player acclaim. By leveraging these insights, you can make strategic design decisions aligned with proven market preferences.
 
+# Project 3 : [The Sweet Spot: Using Data to Guide Candy Product Design ](https://github.com/sitimustikaayu/portfolio/blob/main/candy.ipynb)
+## People have a slight preference for candies containing relatively more sugar
+![image](https://github.com/user-attachments/assets/1efa5543-3831-4fee-a8cf-038afcc7ad37)
 
+## Price sensitivity is different depending on the presence of chocolate
+![image](https://github.com/user-attachments/assets/a56e2073-043e-421c-80bf-88b8474e3acd)
+- ### Higher-priced chocolate candies can still be well-liked, but non-chocolate candies should be priced more competitively to maintain popularity
+- ### This supports a segmented pricing strategy based on product content
+
+## Chocolate is a strong positive factor in consumer preference
+![image](https://github.com/user-attachments/assets/16c94c23-c965-4cb9-a687-212fed4dea57)
+
+## Business Metrics
+- Win Percent: A proxy for popularity based on a survey — the higher the percentage, the more preferred the candy.
+
+- Sugar Percent: Indicates the relative sugar content of a candy.
+
+- Price Percent: Indicates how expensive a candy is compared to others.
+
+- Categorical Attributes: Chocolate, fruity, caramel, and other properties describe the candy composition.
+
+## Summary Insight
+- A scatter plot shows a positive correlation between sugarpercent and winpercent, implying that candies with higher sugar content tend to be more popular.
+
+- Candies such as ‘3 Musketeers’ are more popular than ‘Almond Joy’, while ‘Air Heads’ have more sugar content than ‘Baby Ruth’.
+
+- The dataset allows visual examination of consumer preferences tied to sugar levels and candy types.
+
+## Recommendation
+- Focus on producing candies with moderate-to-high sugar content to increase consumer appeal.
+
+- Incorporate chocolate elements where feasible, as chocolate candies tend to have higher popularity in general.
+
+- Consider benchmarking new products against top performers like "3 Musketeers" based on the winpercent metric.
+
+
+## Conclusion
+Through data visualization using scatter plots, we discovered that sugar content plays a significant role in candy popularity. Future product development should strategically align sweetness and pricing with consumer preferences to enhance success in the competitive confectionery market.
 
 
 
